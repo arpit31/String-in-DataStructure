@@ -36,3 +36,5 @@ public class StringPermutations {
 	}
 
 }
+
+// [atc, cta, act, tca, tac, cat]
